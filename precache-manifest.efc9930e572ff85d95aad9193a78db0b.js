@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3fcf1e23882b505f609bd8346a467697",
+    "revision": "3abe266f1fd56f1acdca4aa753964101",
     "url": "/selling-game-items/index.html"
   },
   {
-    "revision": "339634d16904833c4f22",
-    "url": "/selling-game-items/static/css/main.afb48bc9.chunk.css"
+    "revision": "5b8e171b27a4e373ec16",
+    "url": "/selling-game-items/static/css/main.2323caa2.chunk.css"
   },
   {
     "revision": "70d1ff4917c7093b8ec6",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/selling-game-items/static/js/2.01de4690.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "339634d16904833c4f22",
+    "revision": "5b8e171b27a4e373ec16",
     "url": "/selling-game-items/static/js/main.914bd943.chunk.js"
   },
   {
