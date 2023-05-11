@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/selling-game-items/static/css/main.afb48bc9.chunk.css",
-    "main.js": "/selling-game-items/static/js/main.4bc8b7b4.chunk.js",
-    "main.js.map": "/selling-game-items/static/js/main.4bc8b7b4.chunk.js.map",
+    "main.js": "/selling-game-items/static/js/main.914bd943.chunk.js",
+    "main.js.map": "/selling-game-items/static/js/main.914bd943.chunk.js.map",
     "runtime-main.js": "/selling-game-items/static/js/runtime-main.096638f7.js",
     "runtime-main.js.map": "/selling-game-items/static/js/runtime-main.096638f7.js.map",
     "static/js/2.01de4690.chunk.js": "/selling-game-items/static/js/2.01de4690.chunk.js",
     "static/js/2.01de4690.chunk.js.map": "/selling-game-items/static/js/2.01de4690.chunk.js.map",
     "index.html": "/selling-game-items/index.html",
-    "precache-manifest.4b90a9da45c856db7a59d517afedfee9.js": "/selling-game-items/precache-manifest.4b90a9da45c856db7a59d517afedfee9.js",
+    "precache-manifest.c47de6318ca5ffc3c8d85ab34ea31aef.js": "/selling-game-items/precache-manifest.c47de6318ca5ffc3c8d85ab34ea31aef.js",
     "service-worker.js": "/selling-game-items/service-worker.js",
     "static/css/main.afb48bc9.chunk.css.map": "/selling-game-items/static/css/main.afb48bc9.chunk.css.map",
     "static/js/2.01de4690.chunk.js.LICENSE.txt": "/selling-game-items/static/js/2.01de4690.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.096638f7.js",
     "static/js/2.01de4690.chunk.js",
     "static/css/main.afb48bc9.chunk.css",
-    "static/js/main.4bc8b7b4.chunk.js"
+    "static/js/main.914bd943.chunk.js"
   ]
 }
