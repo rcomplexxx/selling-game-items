@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/selling-game-items/static/css/main.2323caa2.chunk.css",
+    "main.css": "/selling-game-items/static/css/main.274924a1.chunk.css",
     "main.js": "/selling-game-items/static/js/main.914bd943.chunk.js",
     "main.js.map": "/selling-game-items/static/js/main.914bd943.chunk.js.map",
     "runtime-main.js": "/selling-game-items/static/js/runtime-main.096638f7.js",
@@ -8,9 +8,9 @@
     "static/js/2.01de4690.chunk.js": "/selling-game-items/static/js/2.01de4690.chunk.js",
     "static/js/2.01de4690.chunk.js.map": "/selling-game-items/static/js/2.01de4690.chunk.js.map",
     "index.html": "/selling-game-items/index.html",
-    "precache-manifest.efc9930e572ff85d95aad9193a78db0b.js": "/selling-game-items/precache-manifest.efc9930e572ff85d95aad9193a78db0b.js",
+    "precache-manifest.0d431e2eae0b22e156ec15e115c57c0f.js": "/selling-game-items/precache-manifest.0d431e2eae0b22e156ec15e115c57c0f.js",
     "service-worker.js": "/selling-game-items/service-worker.js",
-    "static/css/main.2323caa2.chunk.css.map": "/selling-game-items/static/css/main.2323caa2.chunk.css.map",
+    "static/css/main.274924a1.chunk.css.map": "/selling-game-items/static/css/main.274924a1.chunk.css.map",
     "static/js/2.01de4690.chunk.js.LICENSE.txt": "/selling-game-items/static/js/2.01de4690.chunk.js.LICENSE.txt",
     "static/media/1.png": "/selling-game-items/static/media/1.9e8c568f.png",
     "static/media/3.png": "/selling-game-items/static/media/3.80da0991.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.096638f7.js",
     "static/js/2.01de4690.chunk.js",
-    "static/css/main.2323caa2.chunk.css",
+    "static/css/main.274924a1.chunk.css",
     "static/js/main.914bd943.chunk.js"
   ]
 }
